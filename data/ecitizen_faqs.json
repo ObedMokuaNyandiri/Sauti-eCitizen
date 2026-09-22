@@ -1,0 +1,38 @@
+[
+  {
+    "service": "Driving License Renewal",
+    "steps": [
+      "Log into your eCitizen account (NTSA portal).",
+      "Click on 'Driving License Renewal'.",
+      "Select the duration (1 year or 3 years).",
+      "Pay the required fee via M-Pesa.",
+      "Print your renewal slip."
+    ],
+    "requirements": ["Valid eCitizen account", "Expired driving license details"],
+    "link": "https://ntsa.ecitizen.go.ke/"
+  },
+  {
+    "service": "Passport Application",
+    "steps": [
+      "Log into eCitizen and go to Department of Immigration Services.",
+      "Fill out the passport application form online.",
+      "Pay the fee (starts at Ksh 4,500).",
+      "Book an appointment for biometrics capture.",
+      "Attend the appointment with printed forms and original documents."
+    ],
+    "requirements": ["Original ID and copy", "Original Birth Certificate and copy", "Recommender's ID copy", "Pre-filled application form"],
+    "link": "https://immigration.ecitizen.go.ke/"
+  },
+  {
+    "service": "Police Clearance Certificate (Certificate of Good Conduct)",
+    "steps": [
+      "Log into eCitizen and go to Directorate of Criminal Investigations.",
+      "Fill the Police Clearance application form.",
+      "Pay Ksh 1,050 via M-Pesa.",
+      "Download and print 2 copies of the invoice and one copy of the C24 form.",
+      "Present yourself at DCI headquarters or select Huduma Centre for fingerprinting."
+    ],
+    "requirements": ["Original ID and clear copy", "Printed C24 form and invoices"],
+    "link": "https://dci.ecitizen.go.ke/"
+  }
+]
